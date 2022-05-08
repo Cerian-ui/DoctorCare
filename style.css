@@ -448,7 +448,7 @@ footer .social-links {
 
 /* ==================== Responsivo ================== */
 
-@media (min-width: 1024px) {
+@media (min-width: 102.4rem) {
   /* ==================== GERAL ================== */
   body {
     overflow: auto;
